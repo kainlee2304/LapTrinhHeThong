@@ -1,1 +1,18 @@
+# Lecture 01
+
+## Before class:
+- I carefully read the course website and syllabus.
+- I read chapters 01 and 02 in Stevens.
+- I wrote a small hello-world program, debugged the `welcome.c` program, and set up my VM with the suitable compiler flags and aliases.
+- I came across this interesting article: [Link to the article](https://some.website.you.found/something-relevant.html)
+
+### Open questions:
+- What's the difference between Linux and NetBSD? Aren't both Unix?
+- Why are there different sections for the manual pages? What does the "(1)" in "ls(1)" mean?
+
+## After class:
+### Important take-aways:
+- Always use the right compiler flags (`-Wall -Wextra -Werror`).
+- Despite being "Unix-like," Linux and NetBSD are different OSes with different philosophies and licenses.
+- I still need to understand the pipeline example from class.
 
